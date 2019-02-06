@@ -1,6 +1,6 @@
 # Lider-DERS
 Extended version of Depth Estimation Reference Software
-'''
+```
 //============================================================\\
 //           .----.                      .----.               \\
 //          /      '.                  .'      \              \\
@@ -28,4 +28,4 @@ Extended version of Depth Estimation Reference Software
 //           Development in the LIDER Programme               \\
 //            (LIDER/34/0177/L-8/16/NCBR/2017)                \\
 //============================================================\\
-'''
+```
